@@ -1,5 +1,5 @@
 # Money Squadron Virus
-Money Squadron Virus is a discord bot that sends off commands. The memes are themes arround a discord server called Money Squadron.
+Money Squadron Virus is a discord bot that sends off commands. The memes are themes arround a discord server called Money Squadron. (This is not a virus)
 
 ## Commands
 The prefixes for this bot are either 'ms' or 'Ms', both work.
